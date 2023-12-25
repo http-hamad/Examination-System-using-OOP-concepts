@@ -1,0 +1,32 @@
+a5380ee
+Data Structures
+
+2efcde9
+Which data structure is best suited for the problem of 'recursive function calls'?
+option: Stack
+option: Queue
+option: Array
+option dabfac4: None of the above
+
+b94d27b
+A linked list is a linear data structure.
+option dabfac4: True
+option: False
+
+88f7ace
+Discuss the difference between a stack and a queue in terms of their applications.
+
+2efcde9
+Which data structure is used in implementing Breadth-First Search?
+option: Stack
+option dabfac4: Queue
+option: Linked List
+option: Array
+
+b94d27b
+In a binary search tree, for every node, the values in its left subtree are greater than the node's value.
+option dabfac4: False
+option: True
+
+88f7ace
+Explain the concept of a hash table and its uses in data storage.

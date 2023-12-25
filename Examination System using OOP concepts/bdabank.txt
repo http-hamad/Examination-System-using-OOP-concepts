@@ -1,0 +1,32 @@
+a5380ee
+Big Data Analytics
+
+2efcde9
+Which of the following is an open-source framework used for processing large data sets?
+option: Spark
+option: Hadoop
+option dabfac4: Both Spark and Hadoop
+option: Neither Spark nor Hadoop
+
+b94d27b
+In Big Data, structured data is more common than unstructured data.
+option dabfac4: False
+option: True
+
+88f7ace
+Discuss the challenges faced in the storage and processing of Big Data.
+
+2efcde9
+What type of data does the term 'Variety' refer to in the context of Big Data?
+option: The rate at which data is generated
+option: The amount of data
+option: The reliability of data
+option dabfac4: The different types of data
+
+b94d27b
+Big Data refers only to the volume of data.
+option dabfac4: False
+option: True
+
+88f7ace
+Explain how Big Data analytics is used in the field of marketing.

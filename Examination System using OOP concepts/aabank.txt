@@ -1,0 +1,32 @@
+a5380ee
+Algorithm Analysis
+
+2efcde9
+What is the time complexity of the binary search algorithm?
+option: O(n)
+option dabfac4: O(log n)
+option: O(n^2)
+option: O(1)
+
+b94d27b
+All algorithms must have a unique solution.
+option dabfac4: False
+option: True
+
+88f7ace
+Discuss the concept of time complexity and its importance in algorithm analysis.
+
+2efcde9
+Which of the following sorting algorithms is not a comparison-based algorithm?
+option: Quick Sort
+option: Merge Sort
+option dabfac4: Counting Sort
+option: Heap Sort
+
+b94d27b
+The worst-case time complexity of Quick sort is O(n^2).
+option dabfac4: True
+option: False
+
+88f7ace
+Describe the working principle of the Merge Sort algorithm.

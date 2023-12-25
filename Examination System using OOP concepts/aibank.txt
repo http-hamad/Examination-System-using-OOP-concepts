@@ -1,0 +1,32 @@
+a5380ee
+Artificial Intelligence
+
+2efcde9
+What is the primary goal of AI?
+option: To make computers faster
+option: To improve data storage
+option dabfac4: To make machines intelligent
+option: To reduce the cost of computing
+
+b94d27b
+All AI systems are capable of self-consciousness.
+option dabfac4: False
+option: True
+
+88f7ace
+Discuss the potential impacts of AI on employment and job markets.
+
+2efcde9
+What does 'Machine Learning' mean in the context of AI?
+option: Programming machines to perform tasks
+option: Machines learning from their mistakes
+option dabfac4: Machines learning from data
+option: Machines learning to interact with humans
+
+b94d27b
+In AI, supervised learning requires labeled data for training.
+option dabfac4: True
+option: False
+
+88f7ace
+Explain the concept of reinforcement learning in AI.

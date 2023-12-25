@@ -1,0 +1,32 @@
+a5380ee
+Digital Image Processing
+
+2efcde9
+Which of the following is an image processing operation?
+option: Filtering
+option: Segmentation
+option: Morphological operations
+option dabfac4: All of the above
+
+b94d27b
+In image processing, the term 'histogram' refers to the distribution of pixel intensities in an image.
+option dabfac4: True
+option: False
+
+88f7ace
+Discuss the concept of image segmentation and its applications.
+
+2efcde9
+What does the term 'edge detection' mean in the context of image processing?
+option: Detecting the boundary of the image
+option dabfac4: Detecting the boundaries of objects within an image
+option: Detecting the color changes in the image
+option: Detecting the size of the image
+
+b94d27b
+In digital image processing, the term 'resolution' refers to the number of pixels per inch in an image.
+option dabfac4: True
+option: False
+
+88f7ace
+Explain the role of Fourier Transform in image processing.

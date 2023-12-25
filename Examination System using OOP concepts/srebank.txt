@@ -1,0 +1,32 @@
+a5380ee
+Software Requirements Engineering
+
+2efcde9
+What is a non-functional requirement?
+option: A feature the system should have
+option: A task the system should perform
+option dabfac4: A constraint on the system
+option: A goal the system should achieve
+
+b94d27b
+User requirements are always easy for users to express.
+option dabfac4: False
+option: True
+
+88f7ace
+Explain the difference between functional and non-functional requirements in software engineering.
+
+2efcde9
+What is the main purpose of a use case diagram?
+option: To show the data flow in the system
+option dabfac4: To show the interactions between the system and its users
+option: To show the internal workings of the system
+option: To show the structure of the system
+
+b94d27b
+A use case diagram depicts the dynamic behavior of a system.
+option dabfac4: True
+option: False
+
+88f7ace
+Describe the importance of user stories in gathering software requirements.

@@ -1,0 +1,31 @@
+2efcde9
+In OOP, what does the principle of 'encapsulation' mean?
+option: Breaking a problem into smaller parts
+option: Creating an object from a class
+option: Using old code to create new code
+option dabfac4: Bundling the data and methods that operate on the data
+
+b94d27b
+Multiple inheritance refers to a class inheriting from more than one class.
+option dabfac4: True
+option: False
+
+2efcde9
+Which of the following is NOT a principle of OOP?
+option: Inheritance
+option dabfac4: Sequence
+option: Polymorphism
+option: Encapsulation
+
+b94d27b
+In OOP, an object is an instance of a class.
+option dabfac4: True
+option: False
+
+2efcde9
+In OOP, what does the principle of 'encapsulation' mean?
+option: Breaking a problem into smaller parts
+option: Creating an object from a class
+option: Using old code to create new code
+option dabfac4: Bundling the data and methods that operate on the data
+

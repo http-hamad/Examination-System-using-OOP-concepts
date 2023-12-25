@@ -1,0 +1,32 @@
+a5380ee
+Probability and Statistics
+
+2efcde9
+What is the term for the measure of how much a random variable can vary?
+option: Probability
+option dabfac4: Variance
+option: Distribution
+option: Mode
+
+b94d27b
+The sum of all probabilities in a probability distribution is always 1.
+option dabfac4: True
+option: False
+
+88f7ace
+Discuss the concept of conditional probability and its applications in real life.
+
+2efcde9
+What is the name of a graph that uses rectangles to show frequency distribution?
+option: Pie Chart
+option: Scatter Plot
+option: Line Graph
+option dabfac4: Histogram
+
+b94d27b
+The median is the value that appears most frequently in a data set.
+option dabfac4: False
+option: True
+
+88f7ace
+Explain the difference between correlation and causation in statistics.

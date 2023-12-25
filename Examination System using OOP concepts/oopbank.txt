@@ -1,0 +1,47 @@
+a5380ee
+Object-Oriented Programming
+
+2efcde9
+In OOP, what does the principle of 'encapsulation' mean?
+option: Breaking a problem into smaller parts
+option: Creating an object from a class
+option: Using old code to create new code
+option dabfac4: Bundling the data and methods that operate on the data
+
+b94d27b
+Multiple inheritance refers to a class inheriting from more than one class.
+option dabfac4: True
+option: False
+
+2efcde9
+Which of the following is NOT a principle of OOP?
+option: Inheritance
+option dabfac4: Sequence
+option: Polymorphism
+option: Encapsulation
+
+b94d27b
+In OOP, an object is an instance of a class.
+option dabfac4: True
+option: False
+
+88f7ace
+Explain the concept of inheritance in Object-Oriented Programming.
+
+88f7ace
+Describe the concept of polymorphism in Object-Oriented Programming.
+
+2efcde9
+What does the term 'Abstraction' mean in OOP?
+option: Hiding the internal details and showing only the functionality
+option dabfac4: Abstracting real-world entities into objects
+option: Using old code to create new code
+option: Breaking a problem into smaller parts
+
+b94d27b
+In OOP, abstraction means the same as encapsulation.
+option dabfac4: False
+option: True
+
+88f7ace
+Discuss the concept of classes and objects in Object-Oriented Programming.

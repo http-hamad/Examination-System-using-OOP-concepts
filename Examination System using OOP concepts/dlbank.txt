@@ -1,0 +1,32 @@
+a5380ee
+Deep Learning
+
+2efcde9
+Which one of the following is a popular deep learning framework?
+option: PyTorch
+option: TensorFlow
+option dabfac4: Both PyTorch and TensorFlow
+option: Neither PyTorch nor TensorFlow
+
+b94d27b
+Deep learning models do not need much data to train effectively.
+option dabfac4: False
+option: True
+
+88f7ace
+Discuss the concept of overfitting in the context of deep learning and how it can be mitigated.
+
+2efcde9
+What is the function of activation function in a neural network?
+option: To normalize the output
+option dabfac4: To introduce non-linearity into the output
+option: To reduce the dimensionality of the output
+option: To increase the speed of computation
+
+b94d27b
+The ReLU activation function can only output values between 0 and 1.
+option dabfac4: False
+option: True
+
+88f7ace
+Describe the architecture and function of a Convolutional Neural Network.

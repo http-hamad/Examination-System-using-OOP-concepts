@@ -1,0 +1,32 @@
+a5380ee
+Research Methodologies
+
+2efcde9
+What does the term 'peer review' mean in research?
+option: Review by the research subject
+option dabfac4: Review by other experts in the field
+option: Review by the public
+option: Review by the research team
+
+b94d27b
+In research, the dependent variable is what the researcher manipulates.
+option dabfac4: False
+option: True
+
+88f7ace
+Discuss the importance and role of ethical considerations in conducting research.
+
+2efcde9
+Which of the following is a type of research sampling method?
+option: Sequential sampling
+option: Parallel sampling
+option dabfac4: Stratified sampling
+option: Linear sampling
+
+b94d27b
+A larger sample size always ensures a better representation of the population.
+option dabfac4: False
+option: True
+
+88f7ace
+Describe the process and importance of literature review in research.

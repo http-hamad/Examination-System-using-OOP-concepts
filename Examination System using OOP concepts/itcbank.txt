@@ -1,0 +1,32 @@
+a5380ee
+Information and Communication Technology
+
+2efcde9
+Which one of the following is an example of a network topology?
+option: TCP
+option: UDP
+option dabfac4: Star
+option: HTTP
+
+b94d27b
+DNS stands for Dynamic Name System.
+option dabfac4: False
+option: True
+
+88f7ace
+Discuss the role and importance of a firewall in network security.
+
+2efcde9
+Which protocol is used for transferring web pages from server to client?
+option: FTP
+option: SMTP
+option: SNMP
+option dabfac4: HTTP
+
+b94d27b
+Cookies are used to store information on the client's computer.
+option dabfac4: True
+option: False
+
+88f7ace
+Explain the concept of cloud computing and its advantages.
